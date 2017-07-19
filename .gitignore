@@ -28,3 +28,9 @@ demorest/.classpath
 demorest/.project
 demorest/src/main/resources/config.prop
 
+mavenExample/.settings
+mavenExample/target
+mavenExample/.classpath
+mavenExample/.project
+mavenExample/src/main/resources/config.prop
+
