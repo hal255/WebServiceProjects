@@ -10,3 +10,21 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+.metadata*
+.recommenders*
+RemoteSystemsTempFiles*
+Servers/
+
+baseExample/.settings
+baseExample/target
+baseExample/.classpath
+baseExample/.project
+baseExample/src/main/resources/config.prop
+
+demorest/.settings
+demorest/target
+demorest/.classpath
+demorest/.project
+demorest/src/main/resources/config.prop
+
